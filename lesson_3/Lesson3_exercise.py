@@ -1,6 +1,6 @@
-#Lesson 3
-#UPPGIFT A extra
-#exercise 2
+# # Lesson 3
+# # UPPGIFT A extra
+# # exercise 2
 
 # X = 1
 # Y = 4
@@ -180,7 +180,7 @@
 
 
 
-### `Exercise 3` Boolean Operations - and, or, not
+# ## `Exercise 3` Boolean Operations - and, or, not
 
 # #Create a program that creates three variables x, y, z as booleans. You can modify these variables to test your expressions.
 
@@ -264,8 +264,8 @@
 
 # print(max(list_numbs))
 
-### `Exercise 5` Sorting
-# In LINKS_3.md there is a link Python guide how-to do [sorting](https://docs.python.org/3/howto/sorting.html). Create a list containing 10 car brand. i.e cars = ["volvo", ...]
+# ## `Exercise 5` Sorting
+# #In LINKS_3.md there is a link Python guide how-to do [sorting](https://docs.python.org/3/howto/sorting.html). Create a list containing 10 car brand. i.e cars = ["volvo", ...]
 
 # car_list = ["volvo", "audi", "mercedes", "toyota","ferrari", "ford", "lexus", "bmw", "mazda"]
 # # 1. Sort the list with `sorted(cars)`
