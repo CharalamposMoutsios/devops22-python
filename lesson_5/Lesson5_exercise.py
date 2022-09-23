@@ -5,7 +5,7 @@
 # ### `Exercise 1` Basic usage
 
 
-# 1. Print first, lastname and tele on the same line
+# 1. Print first,  lastname and tele on the same line
 # 2. Create a variable fullname
 # 3. Assign to the new variable fullname, firstname and lastname separated with a space.
 # 4. Print the length `len()` of fullname, firstname and lastname
@@ -66,4 +66,3 @@
 #     print('\U0001F600')
 # else:
 #     print('\U0001F605')
-

@@ -65,7 +65,7 @@ Todays exercises requires that you generate test data. You can generate data in 
         # Part 2
         random_colors = choices(new_list, k=50)
         ```
-
+        
    3. Print the length of all three lists and the unique colors in each list
 
         ```Python
